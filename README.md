@@ -1,5 +1,9 @@
 # autopkg-recipes
 
+autopkg repo-add homebysix-recipes
+
+autopkg repo-add hansen-m-recipes
+
 autopkg run -v AdobeFlashPlayer.pkg
 
 autopkg run -v OracleJava8.pkg
