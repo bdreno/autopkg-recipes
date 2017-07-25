@@ -6,10 +6,12 @@ autopkg repo-add homebysix-recipes hansen-m-recipes cgerke-recipes jss-recipes
 
 ## Adobe
 autopkg run -v AdobeFlashPlayer.pkg
+
 autopkg run -v AdobeReaderDC.pkg
 
 ## Google
 autopkg run -v GoogleDrive.pkg
+
 autopkg run -v GoogleChrome.pkg
 
 ## Mozilla
