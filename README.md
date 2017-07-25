@@ -1,7 +1,7 @@
 # autopkg-recipes
 
 ## Add repositories
-autopkg repo-add homebysix-recipes hansen-m-recipes cgerke-recipes jss-recipes
+autopkg repo-add homebysix-recipes hansen-m-recipes cgerke-recipes jss-recipes rtrouton-recipes
 
 
 ## Adobe
