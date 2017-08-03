@@ -33,6 +33,7 @@ autopkg run -v MSPowerPoint2016.download
 
 autopkg run -v MSWord2016.download
 
+autopkg run -v SkypeForBusiness.pkg
 
 ## Zoom
 autopkg run -v Zoom.pkg
