@@ -38,3 +38,6 @@ autopkg run -v SkypeForBusiness.pkg
 ## Zoom
 autopkg run -v Zoom.pkg
 
+
+
+autopkg repo-add ssh://git@stash.int.colorado.edu:7999/jamf/autopkg-recipes.git
